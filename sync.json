@@ -980,12 +980,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/5Qp2jyNH/xmmp-1.1.1%2B1.21.1-neoforge.jar",
-      "name": "xaeros-maps-multiplayer-plus",
-      "version": "5Qp2jyNH",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/7mLhyqIY/versions/k8wIAiWT/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
       "name": "xaeros-minimap-world-map-waystones-compatibility-forge",
       "version": "k8wIAiWT",
