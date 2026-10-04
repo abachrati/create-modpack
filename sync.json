@@ -1,0 +1,1002 @@
+{
+  "sync_version": 3,
+  "sync": [
+    {
+      "url": "https://raw.githubusercontent.com/foo/bar",
+      "name": "overrides",
+      "version": "0",
+      "type": "packed",
+      "directory": "."
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/b8kG1VGq/versions/XDz1C9KI/aileron-1.21.1-neoforge-1.1.4.jar",
+      "name": "aileron",
+      "version": "XDz1C9KI",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/OYfMeeUK/amendments-1.21-2.1.10-neoforge.jar",
+      "name": "amendments",
+      "version": "OYfMeeUK",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/cugGiMKt/another_furniture-neoforge-4.0.3.jar",
+      "name": "another-furniture",
+      "version": "cugGiMKt",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "name": "appleskin",
+      "version": "uAKA6Laj",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
+      "name": "architectury-api",
+      "version": "1IiqEQGl",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/bbGCtEvb/versions/SGpwIu7v/ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "name": "armor-statues",
+      "version": "SGpwIu7v",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lMfuK0o7/artifacts-neoforge-13.2.5.jar",
+      "name": "artifacts",
+      "version": "lMfuK0o7",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zvNzKfGF/versions/yj7KaIVy/asynclogger-2.2.2%2B1.21.1-neoforge.jar",
+      "name": "asynclogger",
+      "version": "yj7KaIVy",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/8S3JSSbl/AsyncParticles-21.1.4.5%2B1.21.1.jar",
+      "name": "asyncparticles",
+      "version": "8S3JSSbl",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar",
+      "name": "athena-ctm",
+      "version": "dJgL278E",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1jvt7RTc/versions/2bqCbUXm/AxesAreWeapons-1.10.2-neoforge-1.21.jar",
+      "name": "axes-are-weapons",
+      "version": "2bqCbUXm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/dxtZVosY/azimuth-1.4.10.jar",
+      "name": "azimuth-api",
+      "version": "dxtZVosY",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
+      "name": "badoptimizations",
+      "version": "S2qthD5S",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/CquiaiDj/balm-neoforge-1.21.1-21.0.66.jar",
+      "name": "balm",
+      "version": "CquiaiDj",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Xh8hkQmD/versions/HZlLCOct/betterbiomeblend-1.5.2.jar",
+      "name": "bbrb",
+      "version": "HZlLCOct",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
+      "name": "bellsandwhistles",
+      "version": "w0mifib8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "name": "better-advancements",
+      "version": "FjTYILOi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "name": "bookshelf-lib",
+      "version": "1sdJl7J1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/yxOYFgnK/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.122.jar",
+      "name": "c2me-neoforge",
+      "version": "yxOYFgnK",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/PV8oLZ1q/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "name": "carry-on",
+      "version": "PV8oLZ1q",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dv57xmf9/versions/i5PXO3P7/cerulean-neoforge-1.0.0-1.21.1.jar",
+      "name": "cerulean-advancements",
+      "version": "i5PXO3P7",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ZPylso9i/chat_heads-0.15.7-neoforge-1.21.jar",
+      "name": "chat-heads",
+      "version": "ZPylso9i",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar",
+      "name": "chipped",
+      "version": "eqVowbGc",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "name": "cloth-config",
+      "version": "izKINKFg",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/PfXPQBGy/Companion-1.21.1-NeoForge-6.3.0.jar",
+      "name": "companion",
+      "version": "PfXPQBGy",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/SISoSFPP/versions/HJxTPhTM/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+      "name": "configured-defaults",
+      "version": "HJxTPhTM",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar",
+      "name": "connector",
+      "version": "IITF0PRC",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/FYpiwiBR/versions/dgLCqZyo/ConnectorExtras-1.12.1%2B1.21.1.jar",
+      "name": "connector-extras",
+      "version": "dgLCqZyo",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
+      "name": "continuity",
+      "version": "eXGUs5sy",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "name": "controlling",
+      "version": "FaNppCJJ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "name": "coroutil",
+      "version": "H2YXCYUY",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "name": "create",
+      "version": "UjX6dr61",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "name": "create-aeronautics",
+      "version": "44pLdPGg",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/KUInlTFo/versions/VtGEohEU/alloyed-3.0.12%2B1.21.1-neoforge.jar",
+      "name": "create-alloyed",
+      "version": "VtGEohEU",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "name": "create-big-cannons",
+      "version": "bOiDu0LS",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/g9Lmjjc5/bits_n_bobs-2.3.5.jar",
+      "name": "create-bits-n-bobs",
+      "version": "g9Lmjjc5",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dWU6xUnj/versions/DkktDPvc/create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar",
+      "name": "create-cardboarded-conveynience",
+      "version": "DkktDPvc",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BBhCMftF/versions/JEmLrfe6/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "name": "create-curios-jetpack",
+      "version": "JEmLrfe6",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OEAJaSuI/versions/jnnDc0Jg/createestrogen-2.0.0%2B1.21.1.jar",
+      "name": "create-estrogen",
+      "version": "jnnDc0Jg",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/j6Zt3N7W/versions/OA9Dvj5m/create_factory-0.7b-1.21.1.jar",
+      "name": "create-factory",
+      "version": "OA9Dvj5m",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/15fFZ3f4/versions/yioQUGiO/createframed-1.21.1-1.8.2.jar",
+      "name": "create-framed",
+      "version": "yioQUGiO",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar",
+      "name": "create-pattern-schematics",
+      "version": "VSJhIkG2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/udEtt0b2/versions/gKqw2akx/createprism-1.2.2.jar",
+      "name": "create-prismatic-shine",
+      "version": "gKqw2akx",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/gv5RRavC/versions/NcJIZKwh/create-shufflefilter-2.2.0-neo.jar",
+      "name": "create-shuffle-filter",
+      "version": "NcJIZKwh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/kSok4DxT/versions/HXviiJ3I/smart_bounds-1.0.0.jar",
+      "name": "create-smart-bounds",
+      "version": "HXviiJ3I",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
+      "name": "create-steam-n-rails-1.21.1",
+      "version": "czVeSmZo",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "name": "curios",
+      "version": "yohfFbgD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Dk6su9JN/versions/5P5tLHSh/CutThrough-v21.1.0-1.21.1-NeoForge.jar",
+      "name": "cut-through",
+      "version": "5P5tLHSh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4JVfdODB/versions/lpFSq579/cynosure-1.0.3-neoforge-1.21.1.jar",
+      "name": "cynosure",
+      "version": "lpFSq579",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/qePsyQOP/DetailArmorBarReconstructed-5.0.2%2B1.21.1-neoforge.jar",
+      "name": "detail-armor-bar-reconstructed",
+      "version": "qePsyQOP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/UEtTD3gP/versions/xDYKoTCG/Ding-1.21-NeoForge-1.5.0.jar",
+      "name": "ding",
+      "version": "xDYKoTCG",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "name": "distanthorizons",
+      "version": "9w34y8ai",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/xQU6E1ee/versions/2KEQq349/distractingtrims-neoforge-1.21.1-21.1.1.jar",
+      "name": "distracting-trims",
+      "version": "2KEQq349",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+      "name": "dynamic-fps",
+      "version": "T238FZpQ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/HXD8kS5O/e4mc-neoforge-6.2.3.jar",
+      "name": "e4mc",
+      "version": "HXD8kS5O",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/fSQSKhdF/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "name": "easy-anvils",
+      "version": "fSQSKhdF",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/X8CISwXp/versions/D7saUVV5/eatinganimation-1.21.0-6.0.1.jar",
+      "name": "eating-animations",
+      "version": "D7saUVV5",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/ihEiqSv4/ecologics-1.21.1-2.3.7.jar",
+      "name": "ecologics",
+      "version": "ihEiqSv4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+      "name": "emi",
+      "version": "5sIPA1To",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/QXkODMCT/emi_loot-0.7.9%2B1.21%2Bneoforge.jar",
+      "name": "emi-loot",
+      "version": "QXkODMCT",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/AWMWYMwC/versions/AwvnugPB/emixx-2.1.0.jar",
+      "name": "emixx",
+      "version": "AwvnugPB",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/yHN0njMr/versions/YTApg6Hl/ends_delight-2.6.1%2Bneoforge.1.21.1.jar",
+      "name": "ends-delight",
+      "version": "YTApg6Hl",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "name": "entityculling",
+      "version": "8w8FfUPs",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/YRkPwUTR/entity_model_features-3.3.10-1.21-neoforge.jar",
+      "name": "entity-model-features",
+      "version": "YRkPwUTR",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/CfQJbv1u/entity_texture_features-7.2.5-1.21-neoforge.jar",
+      "name": "entitytexturefeatures",
+      "version": "CfQJbv1u",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/HhIJW8n1/versions/jLNES5cw/estrogen-6.0.10%2B1.21.1-neoforge.jar",
+      "name": "estrogen",
+      "version": "jLNES5cw",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/r0camchr/versions/GYn7YRXz/explosiveenhancement-neoforge-1.21.1-1.2.0.jar",
+      "name": "explosive-enhancement-forge",
+      "version": "GYn7YRXz",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar",
+      "name": "extended-wrenches",
+      "version": "g0PyoRas",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
+      "name": "farmers-delight",
+      "version": "XTVZDOol",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/rmMrheaC/fastpaintings-1.21-1.3.1-neoforge.jar",
+      "name": "fast-paintings",
+      "version": "rmMrheaC",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "name": "ferrite-core",
+      "version": "x7kQWVju",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/PHD5rYo3/flerovium-neoforge-1.21.1-1.2.0-all.jar",
+      "name": "flerovium",
+      "version": "PHD5rYo3",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/V9WdDUTx/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar",
+      "name": "forgified-fabric-api",
+      "version": "V9WdDUTx",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/n2GBQ4li/fusion-1.3.15b-neoforge-mc1.21.1.jar",
+      "name": "fusion-connected-textures",
+      "version": "n2GBQ4li",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/uG7oHgw6/fzzy_config-0.7.7%2B1.21%2Bneoforge.jar",
+      "name": "fzzy-config",
+      "version": "uG7oHgw6",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zg2tT2Vu/versions/IDRMIIb4/gml-6.0.2.jar",
+      "name": "gml",
+      "version": "IDRMIIb4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/jJBnRYkf/GPUBooster-1.3.2-1.21.1-neo.jar",
+      "name": "gputape",
+      "version": "jJBnRYkf",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/W6ROj0Hl/versions/OvIyyNh4/iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "name": "ichunutil",
+      "version": "OvIyyNh4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/OUpXxw4n/ImmediatelyFast-NeoForge-1.6.14%2B1.21.1.jar",
+      "name": "immediatelyfast",
+      "version": "OUpXxw4n",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar",
+      "name": "incendium",
+      "version": "7mVvV9Th",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lTS6nyFs/versions/qVIg25NN/eg-inventory-blur-1.0.1.jar",
+      "name": "inventory-blur",
+      "version": "qVIg25NN",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "name": "iris",
+      "version": "KduFYu4t",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/18x8vikP/Ixeris-4.6.8%2B1.21.1-neoforge.jar",
+      "name": "ixeris",
+      "version": "18x8vikP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Tn0dgwL0/jei-1.21.1-neoforge-19.57.0.450.jar",
+      "name": "jei",
+      "version": "Tn0dgwL0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/f0ruQTF7/versions/MsiyjxjP/Kerria-1.3.2%2B1.21.1-neoforge.jar",
+      "name": "kerria-opt",
+      "version": "MsiyjxjP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/tfwJWC8g/Kiwi-1.21.1-NeoForge-15.8.7.jar",
+      "name": "kiwi",
+      "version": "tfwJWC8g",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "name": "konkrete",
+      "version": "stJDU839",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+      "name": "kotlin-for-forge",
+      "version": "uhJhCT7X",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+      "name": "kotlin-for-forge",
+      "version": "uhJhCT7X",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "name": "lambdynamiclights",
+      "version": "ksaGCvSu",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+      "name": "lithium",
+      "version": "DDUrRVCA",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/sPmtDq1X/lithostitched-1.8.0-neoforge-21.1.jar",
+      "name": "lithostitched",
+      "version": "sPmtDq1X",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/CohX6yP1/lodestone-1.21.1-1.8.2.jar",
+      "name": "lodestonelib",
+      "version": "CohX6yP1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/SPOrIzX8/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "name": "lootr",
+      "version": "SPOrIzX8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4hwXMFif/versions/ecuMnNO4/map_atlases-1.21-7.0.1-neoforge.jar",
+      "name": "map-atlases-forge",
+      "version": "ecuMnNO4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qMxbM4BQ/versions/YUHbwbgQ/minersdelight-1.21.1-1.4.5.jar",
+      "name": "miners-delight",
+      "version": "YUHbwbgQ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar",
+      "name": "modelfix",
+      "version": "X2U8ceG9",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+      "name": "modernfix",
+      "version": "5HLHxQ2F",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/t6iFh4M3/moonlight-1.21.1-3.7.0-neoforge.jar",
+      "name": "moonlight",
+      "version": "t6iFh4M3",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/51shyZVL/versions/5M4T2FfG/moreculling-neoforge-1.21.1-1.0.10.jar",
+      "name": "moreculling",
+      "version": "5M4T2FfG",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/8jvcOd6S/versions/s0FVNDXY/more_sounds-1.21.x-0.3.0-beta.jar",
+      "name": "more-sounds",
+      "version": "s0FVNDXY",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "name": "mouse-tweaks",
+      "version": "9I21YYxf",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/Kpai1paZ/mru-1.0.41%2B1.21.1-neoforge.jar",
+      "name": "mru",
+      "version": "Kpai1paZ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/O53VhQoZ/versions/SGFJBL5q/MyNethersDelight-1.21.1-1.10.4.1.jar",
+      "name": "my-nethers-delight",
+      "version": "SGFJBL5q",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/DzSY371i/versions/MUOGH4UT/neobeefix-1.21.1-2.0.1.jar",
+      "name": "neo-bee-fix",
+      "version": "MUOGH4UT",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "name": "netherportalfix",
+      "version": "O09BGtgh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "name": "no-chat-reports",
+      "version": "ZV8eL55E",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+      "name": "not-enough-animations",
+      "version": "VCuMsK45",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "name": "notenoughrecipebook",
+      "version": "8SBaRv1t",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/3fv8O3xX/Nullscape_1.21.x_v1.2.14.jar",
+      "name": "nullscape",
+      "version": "3fv8O3xX",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/HVllSdtX/ParticleEffects-1.6.0%2B1.21.1%2Bneoforge.jar",
+      "name": "particle-effects",
+      "version": "HVllSdtX",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/ROLbT0WQ/polytone-1.21-4.5.3-neoforge.jar",
+      "name": "polytone",
+      "version": "ROLbT0WQ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/CQTUbhIo/versions/bnlB3gWi/potionstacks-1.0.0.jar",
+      "name": "potion-stacks",
+      "version": "bnlB3gWi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/CrvsDgLW/PresenceFootsteps-1.11.2%2B1.21.jar",
+      "name": "presence-footsteps",
+      "version": "CrvsDgLW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+      "name": "prickle",
+      "version": "EE1FHDyD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/1TmfTuyw/puzzleslib-v21.1.62-mc1.21.1%2Bneoforge.jar",
+      "name": "puzzles-lib",
+      "version": "1TmfTuyw",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/k4NCrqRq/Quark-4.1-486.jar",
+      "name": "quark",
+      "version": "k4NCrqRq",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/yXZgoajP/quick-pack-neoforge-1.5.1%2B1.21.1.jar",
+      "name": "quick-pack",
+      "version": "yXZgoajP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/e4yVoAvP/connectiblechains-2.4.4%2B1.21.1-neoforge.jar",
+      "name": "reconnectible-chains",
+      "version": "e4yVoAvP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
+      "name": "reeses-sodium-options",
+      "version": "XjF2IkL8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "name": "resourceful-config",
+      "version": "lSbyRD6v",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "name": "resourceful-lib",
+      "version": "x99nCLTm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/5KyUPNjh/Resourcify%20%281.21.1-neoforge%29-1.8.7.jar",
+      "name": "resourcify",
+      "version": "5KyUPNjh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+      "name": "rpl",
+      "version": "hZ6B2Z0x",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
+      "name": "sable",
+      "version": "fg9dTRz9",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar",
+      "name": "sablecompat",
+      "version": "Ucq7afTi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/CCOhtz1H/scholar-neoforge-1.21.1-1.2.6.jar",
+      "name": "scholar",
+      "version": "CCOhtz1H",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/IyHq05yB/versions/Lw02ZJke/seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "name": "seamless-sleep",
+      "version": "Lw02ZJke",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "name": "searchables",
+      "version": "iEE85X0w",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "name": "shatterbyte-lib",
+      "version": "yVCCi6TK",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nDFVOeq7/versions/PJ7q3Y9v/netherite_horse_armor-neoforge-1.21.1-2.0a.jar",
+      "name": "simple-netherite-horse-armor",
+      "version": "PJ7q3Y9v",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qqNx1Yjm/voicechat-neoforge-1.21.1-2.6.24.jar",
+      "name": "simple-voice-chat",
+      "version": "qqNx1Yjm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar",
+      "name": "slice-and-dice",
+      "version": "D6mQaFRW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/WVehudAZ/versions/OjOphpLn/SmartBlockPlacement-2.0.jar",
+      "name": "smartblockplacement",
+      "version": "OjOphpLn",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/odppGdXf/smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "name": "smarter-farmers-farmers-replant",
+      "version": "odppGdXf",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/tnvwgXE6/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "name": "smooth-swapping",
+      "version": "tnvwgXE6",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "name": "sodium",
+      "version": "uMOpc5uV",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
+      "name": "sodium-extra",
+      "version": "ufpcXU9c",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Igmp9PwW/sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+      "name": "sophisticated-backpacks",
+      "version": "Igmp9PwW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/s85zLEDe/versions/xQr7vEEu/sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar",
+      "name": "sophisticated-backpacks-create-integration",
+      "version": "xQr7vEEu",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/nSoNwJfm/sophisticatedcore-1.21.1-1.5.5.2363.jar",
+      "name": "sophisticated-core",
+      "version": "nSoNwJfm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
+      "name": "sound",
+      "version": "kti7i9SG",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "name": "sound-physics-remastered",
+      "version": "Dd2tmpsk",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TxIuhIFo/versions/PPVE16f7/statuseffectbars-1.21.1-NeoForge-1.0.2.jar",
+      "name": "status-effect-bars-reforged",
+      "version": "PPVE16f7",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ayPU0OHc/versions/eTz03Gfd/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "name": "structure-layout-optimizer",
+      "version": "eTz03Gfd",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/sHO3MhQx/versions/BOTN7zzN/struts-1.3.1.jar",
+      "name": "strut-your-stuff",
+      "version": "BOTN7zzN",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/WrZWfRjP/supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "name": "supplementaries",
+      "version": "WrZWfRjP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "name": "terralith",
+      "version": "IY93YaEe",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/yFypjcfd/versions/pEhG9g9P/toomanyrecipeviewers-0.9.0%2Bmc.21.1.jar",
+      "name": "tmrv",
+      "version": "pEhG9g9P",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar",
+      "name": "tooltipfix",
+      "version": "B2L4LeMV",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/HY8Ybozd/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "name": "trashslot",
+      "version": "HY8Ybozd",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "name": "txnilib",
+      "version": "M1CyD3Uu",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZlX3EVmE/versions/qEFip2XZ/Updating%20World%20Icon-neoforge-1.21.1-1.0.1.jar",
+      "name": "updating-world-icon",
+      "version": "qEFip2XZ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "name": "yacl",
+      "version": "7TVdVtxF",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/HaaH232J/versions/Pp0TjcvD/yeetusexperimentus-neoforge-87.0.0.jar",
+      "name": "yeetus-experimentus",
+      "version": "Pp0TjcvD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "name": "yungs-api",
+      "version": "2prKITKh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/GQ9iNWkI/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "name": "yungs-better-desert-temples",
+      "version": "GQ9iNWkI",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/D6aZn0Em/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "name": "yungs-better-dungeons",
+      "version": "D6aZn0Em",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/iopJiJQp/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "name": "yungs-better-nether-fortresses",
+      "version": "iopJiJQp",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/yFjEcj2g/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "name": "yungs-better-ocean-monuments",
+      "version": "yFjEcj2g",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "name": "yungs-better-strongholds",
+      "version": "8U0dIfSM",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/N2EpMhR7/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "name": "yungs-extras",
+      "version": "N2EpMhR7",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/9GjNW2Gf/Zeta-1.1-40.jar",
+      "name": "zeta",
+      "version": "9GjNW2Gf",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/9vSFkDAr/zfastnoise-1.0.13%2B1.21.1%2Bneoforge.jar",
+      "name": "zfastnoise",
+      "version": "9vSFkDAr",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/o6qsdrrQ/versions/Rh2ImJ86/zume-1.2.2.jar",
+      "name": "zume",
+      "version": "Rh2ImJ86",
+      "type": "mod"
+    }
+  ]
+}
