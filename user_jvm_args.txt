@@ -1,0 +1,8 @@
+-XX:+UnlockExperimentalVMOptions
+-XX:+UseZGC
+-XX:+DisableExplicitGC
+-XX:+AlwaysPreTouch
+-XX:+PerfDisableSharedMem
+-XX:-ZUncommit
+-XX:+ParallelRefProcEnabled
+--add-modules jdk.incubator.vector

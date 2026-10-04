@@ -17,3 +17,6 @@ jq -c -r '.sync[] | select(.type == "mod")' sync.json \
         printf '%b\n' "downloaded $slug"
       fi
   done
+
+# breaks server-side, isn't properly tagged
+rm mods/toadlib-Ljldqqcx.jar

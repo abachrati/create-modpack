@@ -284,6 +284,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/hqI03twF/versions/BwfxFcwh/sablexaeromaps-1.21.1-1.4.1.jar",
+      "name": "create-xaeros-map",
+      "version": "BwfxFcwh",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar",
       "name": "cubes-without-borders",
       "version": "epixUL1j",
@@ -317,12 +323,6 @@
       "url": "https://cdn.modrinth.com/data/UEtTD3gP/versions/xDYKoTCG/Ding-1.21-NeoForge-1.5.0.jar",
       "name": "ding",
       "version": "xDYKoTCG",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-      "name": "distanthorizons",
-      "version": "9w34y8ai",
       "type": "mod"
     },
     {
@@ -578,12 +578,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/4hwXMFif/versions/ecuMnNO4/map_atlases-1.21-7.0.1-neoforge.jar",
-      "name": "map-atlases-forge",
-      "version": "ecuMnNO4",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/qMxbM4BQ/versions/YUHbwbgQ/minersdelight-1.21.1-1.4.5.jar",
       "name": "miners-delight",
       "version": "YUHbwbgQ",
@@ -776,6 +770,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/Ap78bKTp/versions/Tbny1Cq6/roxy-1.21.1-NeoForge-0.3.3.jar",
+      "name": "roxy",
+      "version": "Tbny1Cq6",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
       "name": "rpl",
       "version": "hZ6B2Z0x",
@@ -908,15 +908,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/y8iP3aUs/supermartijn642corelib-1.1.24a-neoforge-mc1.21.jar",
-      "name": "supermartijn642s-core-lib",
-      "version": "y8iP3aUs",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "name": "supermartijn642s-config-lib",
       "version": "qKL9jM75",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/y8iP3aUs/supermartijn642corelib-1.1.24a-neoforge-mc1.21.jar",
+      "name": "supermartijn642s-core-lib",
+      "version": "y8iP3aUs",
       "type": "mod"
     },
     {
@@ -959,6 +959,48 @@
       "url": "https://cdn.modrinth.com/data/ZlX3EVmE/versions/qEFip2XZ/Updating%20World%20Icon-neoforge-1.21.1-1.0.1.jar",
       "name": "updating-world-icon",
       "version": "qEFip2XZ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/H3w2nVdU/voxy-0.2.16-beta%2B1.21.11.jar",
+      "name": "voxy",
+      "version": "H3w2nVdU",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/84zcagOb/versions/ysVSK5wH/voxy-server-side-neoforge.jar",
+      "name": "voxy-server-side",
+      "version": "ysVSK5wH",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/6Z6MQ6os/waystones-neoforge-1.21.1-21.1.46.jar",
+      "name": "waystones",
+      "version": "6Z6MQ6os",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/5Qp2jyNH/xmmp-1.1.1%2B1.21.1-neoforge.jar",
+      "name": "xaeros-maps-multiplayer-plus",
+      "version": "5Qp2jyNH",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/7mLhyqIY/versions/k8wIAiWT/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
+      "name": "xaeros-minimap-world-map-waystones-compatibility-forge",
+      "version": "k8wIAiWT",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9Ckiihkz/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "name": "xaeros-world-map",
+      "version": "9Ckiihkz",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Ov2r3aVY/versions/mgDpAA4x/xaerotrainmap-1.0.0.jar",
+      "name": "xaero-train-map",
+      "version": "mgDpAA4x",
       "type": "mod"
     },
     {

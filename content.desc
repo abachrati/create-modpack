@@ -44,13 +44,13 @@ mod/create-prismatic-shine
 mod/create-shuffle-filter
 mod/create-smart-bounds
 mod/create-steam-n-rails-1.21.1
+mod/create-xaeros-map
 mod/cubes-without-borders
 mod/curios
 mod/cut-through
 mod/cynosure
 mod/detail-armor-bar-reconstructed
 mod/ding
-mod/distanthorizons
 mod/distracting-trims
 mod/draggable-lists
 mod/dynamic-fps
@@ -93,7 +93,6 @@ mod/lithium
 mod/lithostitched
 mod/lodestonelib
 mod/lootr
-mod/map-atlases-forge
 mod/miners-delight
 mod/modelfix
 mod/modernfix
@@ -126,6 +125,7 @@ mod/reeses-sodium-options
 mod/resourceful-config
 mod/resourceful-lib
 mod/resourcify
+mod/roxy
 mod/rpl
 mod/sable
 mod/sablecompat
@@ -148,8 +148,8 @@ mod/sound-physics-remastered
 mod/status-effect-bars-reforged
 mod/structure-layout-optimizer
 mod/strut-your-stuff
-mod/supermartijn642s-core-lib
 mod/supermartijn642s-config-lib
+mod/supermartijn642s-core-lib
 mod/supplementaries
 mod/terralith
 mod/toadlib
@@ -157,6 +157,13 @@ mod/tooltipfix
 mod/trashslot
 mod/txnilib
 mod/updating-world-icon
+mod/voxy H3w2nVdU
+mod/voxy-server-side
+mod/waystones
+mod/xaeros-maps-multiplayer-plus
+mod/xaeros-minimap-world-map-waystones-compatibility-forge
+mod/xaeros-world-map
+mod/xaero-train-map
 mod/yacl
 mod/yeetus-experimentus
 mod/yungs-api
