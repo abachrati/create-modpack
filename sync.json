@@ -284,6 +284,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar",
+      "name": "cubes-without-borders",
+      "version": "epixUL1j",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
       "name": "curios",
       "version": "yohfFbgD",
@@ -323,6 +329,12 @@
       "url": "https://cdn.modrinth.com/data/xQU6E1ee/versions/2KEQq349/distractingtrims-neoforge-1.21.1-21.1.1.jar",
       "name": "distracting-trims",
       "version": "2KEQq349",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/aLcHfalx/versions/kgy0Eg0q/draggable_lists-mc1.20.6-1.0.8-build.44.jar",
+      "name": "draggable-lists",
+      "version": "kgy0Eg0q",
       "type": "mod"
     },
     {

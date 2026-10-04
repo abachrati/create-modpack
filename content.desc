@@ -44,6 +44,7 @@ mod/create-prismatic-shine
 mod/create-shuffle-filter
 mod/create-smart-bounds
 mod/create-steam-n-rails-1.21.1
+mod/cubes-without-borders
 mod/curios
 mod/cut-through
 mod/cynosure
@@ -51,6 +52,7 @@ mod/detail-armor-bar-reconstructed
 mod/ding
 mod/distanthorizons
 mod/distracting-trims
+mod/draggable-lists
 mod/dynamic-fps
 mod/e4mc
 mod/easy-anvils
