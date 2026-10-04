@@ -1082,36 +1082,6 @@
       "type": "resourcepack"
     },
     {
-      "url": "https://cdn.modrinth.com/data/AhPf2E1u/versions/GrfbfoJB/FA%2BCreepers-v2.1.zip",
-      "name": "fresh-animations-creepers",
-      "version": "GrfbfoJB",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/lctgpCsu/versions/tGydmcT3/FA%2BDetails-v2.2.1.zip",
-      "name": "fresh-animations-details",
-      "version": "tGydmcT3",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/RfJ3uz2J/FA%2BAll_Extensions-v1.8.1.zip",
-      "name": "fresh-animations-extensions",
-      "version": "RfJ3uz2J",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/23O9JVMV/versions/AIGgXNdl/FA%2BObjects-v2.1.2.zip",
-      "name": "fresh-animations-objects",
-      "version": "AIGgXNdl",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/aqKnWmBf/versions/26pzeVJN/FA%2BSpiders-v2.2.zip",
-      "name": "fresh-animations-spiders",
-      "version": "26pzeVJN",
-      "type": "resourcepack"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/ajcwQmG4/versions/Mtnn67U3/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip",
       "name": "fusion-block-transitions",
       "version": "Mtnn67U3",
@@ -1127,12 +1097,6 @@
       "url": "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip",
       "name": "fusion-connected-glass",
       "version": "oYKivjVk",
-      "type": "resourcepack"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/anEmXbCW/versions/X88tJXyK/Fusion%20Emissive%20Ores%20v1.0.2%20for%20Minecraft%201.20-1.21.8.zip",
-      "name": "fusion-emissive-ores",
-      "version": "X88tJXyK",
       "type": "resourcepack"
     },
     {

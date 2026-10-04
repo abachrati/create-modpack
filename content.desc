@@ -177,15 +177,9 @@ mod/zfastnoise
 mod/zume
 resourcepack/fa-player-extension
 resourcepack/fresh-animations
-resourcepack/fresh-animations-creepers
-resourcepack/fresh-animations-details
-resourcepack/fresh-animations-extensions
-resourcepack/fresh-animations-objects
-resourcepack/fresh-animations-spiders
 resourcepack/fusion-block-transitions
 resourcepack/fusion-connected-blocks
 resourcepack/fusion-connected-glass
-resourcepack/fusion-emissive-ores
 shader/complementary-unbound
 shader/miniature-shader
 shader/pastel-shaders
