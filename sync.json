@@ -4,7 +4,7 @@
     {
       "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/overrides.zip",
       "name": "overrides",
-      "version": "54d7a95",
+      "version": "0991da4",
       "type": "packed",
       "directory": "."
     },
@@ -894,12 +894,6 @@
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar",
       "name": "terralith",
       "version": "IY93YaEe",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/yFypjcfd/versions/pEhG9g9P/toomanyrecipeviewers-0.9.0%2Bmc.21.1.jar",
-      "name": "tmrv",
-      "version": "pEhG9g9P",
       "type": "mod"
     },
     {
