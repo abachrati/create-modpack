@@ -1,0 +1,19 @@
+#!/bin/sh
+
+rm -rf mods
+mkdir mods
+
+jq -c -r '.sync[] | select(.type == "mod")' sync.json \
+  | while read -r line; do
+    slug="$(printf '%b' "$line" | jq -r '.name')"
+    url="$(printf '%b\n' "$line" | jq -r '.url')"
+    version="$(printf '%b\n' "$line" | jq -r '.version')"
+
+    env="$(wget -q -O - "https://api.modrinth.com/v2/project/$slug" | jq -r '.environment[]')"
+
+    printf '%b' "$env" \
+      | if grep 'server' > /dev/null; then
+        (cd mods; wget -q -O "$slug-$version.jar" "$url")
+        printf '%b\n' "downloaded $slug"
+      fi
+  done
