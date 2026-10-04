@@ -908,9 +908,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/y8iP3aUs/supermartijn642corelib-1.1.24a-neoforge-mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/izpAOVsw/supermartijn642corelib-1.1.24b-neoforge-mc1.21.jar",
       "name": "supermartijn642s-core-lib",
-      "version": "y8iP3aUs",
+      "version": "izpAOVsw",
       "type": "mod"
     },
     {
@@ -1073,6 +1073,12 @@
       "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
       "name": "fresh-animations",
       "version": "xN57JJts",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lctgpCsu/versions/tGydmcT3/FA%2BDetails-v2.2.1.zip",
+      "name": "fresh-animations-details",
+      "version": "tGydmcT3",
       "type": "resourcepack"
     },
     {

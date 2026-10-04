@@ -176,6 +176,7 @@ mod/zfastnoise
 mod/zume
 resourcepack/fa-player-extension
 resourcepack/fresh-animations
+resourcepack/fresh-animations-details
 resourcepack/fusion-block-transitions
 resourcepack/fusion-connected-blocks
 resourcepack/fusion-connected-glass
