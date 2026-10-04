@@ -46,7 +46,7 @@ mod() {
   printf '%b' "$resp" \
     | jq -r "{
     url: .files[0].url,
-    name: \"${1##*/} \",
+    name: \"${1##*/}\",
     version: .id,
     type: \"mod\"
     }"
@@ -72,20 +72,22 @@ other() {
   printf '%b' "$resp" \
     | jq -r "{
     url: .files[0].url,
-    name: \"${1##*/} \",
+    name: \"${1##*/}\",
     version: .id,
     type: \"${1%%/*}\"
     }"
 }
 
 {
+  cat content.json
   # fetch latest from content from modrinth API
   while read -r line; do
     case "$line" in
+      "#"*)  continue;;
       mod/*) mod   "$line";;
       *)     other "$line";;
     esac
-  done < content
+  done < content.desc
 } \
   | jq -s -r '{
     sync_version: 3,
