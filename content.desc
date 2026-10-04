@@ -135,9 +135,7 @@ mod/shatterbyte-lib
 mod/simple-netherite-horse-armor
 mod/simple-voice-chat
 mod/slice-and-dice
-mod/smartblockplacement
 mod/smarter-farmers-farmers-replant
-mod/smooth-swapping
 mod/sodium
 mod/sodium-extra
 mod/sophisticated-backpacks
@@ -170,7 +168,7 @@ mod/yungs-extras
 mod/zeta
 mod/zfastnoise
 mod/zume
-resourcepack/better-leaves
+resourcepack/fancyfast-bushy-leaves
 resourcepack/fa-player-extension
 resourcepack/fresh-animations
 resourcepack/fresh-animations-creepers
