@@ -2,7 +2,7 @@
 
 # TODO: allow pinning versions
 
-OVERRIDES_URL="https://raw.githubusercontent.com/foo/bar"
+OVERRIDES_URL="https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/overrides.zip"
 OVERRIDES_VERSION="0"
 
 # $1 slug/id

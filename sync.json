@@ -2,7 +2,7 @@
   "sync_version": 3,
   "sync": [
     {
-      "url": "https://raw.githubusercontent.com/foo/bar",
+      "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/overrides.zip",
       "name": "overrides",
       "version": "0",
       "type": "packed",
