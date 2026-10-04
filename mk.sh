@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # TODO: allow pinning versions
+# TODO: add support for other content types (resources, shaders)
 
-OVERRIDES_URL="https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/overrides.zip"
-OVERRIDES_VERSION="0"
+OVERRIDES="https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/overrides.zip"
 
 # $1 slug/id
 # $2 game version
@@ -19,7 +19,7 @@ mod() {
 
   # some neoforge mods are compatible with 1.21.1, but only list 1.21
   if [ "$resp" == "null" ]; then
-    printf '\r%-32s %b' "$1" "neoforge 1.21 ?" 1>&2
+    printf '\r%-32s %b' "$1" "neoforge 1.21   ?" 1>&2
     resp="$(version $1 1.21 neoforge | jq -r '.[0]')"
   fi
 
@@ -40,13 +40,16 @@ mod() {
     }"
 }
 
+rm -rf overrides.zip
+(cd overrides; tar -cvzf ../overrides.zip .)
+
 {
   # add overrides artifact
   cat << EOF
 {
-  "url": "$OVERRIDES_URL",
+  "url": "$OVERRIDES",
   "name": "overrides",
-  "version": "$OVERRIDES_VERSION",
+  "version": "$(git rev-parse --short HEAD)",
   "type": "packed",
   "directory": "."
 }
@@ -55,7 +58,7 @@ EOF
   # fetch latest from content from modrinth API
   while read -r line; do
     mod "$line"
-  done < "$1"
+  done < content
 } \
   | jq -s -r '{
     sync_version: 3,

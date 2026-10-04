@@ -4,7 +4,7 @@
     {
       "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/overrides.zip",
       "name": "overrides",
-      "version": "0",
+      "version": "54d7a95",
       "type": "packed",
       "directory": "."
     },
