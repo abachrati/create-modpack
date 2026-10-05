@@ -123,12 +123,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
-      "name": "bellsandwhistles",
-      "version": "w0mifib8",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
       "name": "better-advancements",
       "version": "FjTYILOi",
@@ -222,6 +216,12 @@
       "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
       "name": "controlling",
       "version": "FaNppCJJ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/gMWAhU1n/versions/ImX4pqdY/convenientdecor-0.4.4.jar",
+      "name": "convenient-decor",
+      "version": "ImX4pqdY",
       "type": "mod"
     },
     {
@@ -363,6 +363,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/sCwiqLqq/create_jetpack-forge-5.2.1.jar",
+      "name": "create-jetpack",
+      "version": "sCwiqLqq",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar",
       "name": "create-pattern-schematics",
       "version": "VSJhIkG2",
@@ -432,6 +438,12 @@
       "url": "https://cdn.modrinth.com/data/4JVfdODB/versions/lpFSq579/cynosure-1.0.3-neoforge-1.21.1.jar",
       "name": "cynosure",
       "version": "lpFSq579",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/IZJSgKZe/versions/Z8xm2POI/decocraft-3.0.11-1.21.1-neoforge.jar",
+      "name": "decocraft",
+      "version": "Z8xm2POI",
       "type": "mod"
     },
     {
@@ -750,6 +762,42 @@
       "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar",
       "name": "lambdynamiclights",
       "version": "ksaGCvSu",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/oNB5jhlA/versions/6PUQwtEA/letsdo-bakery-neoforge-2.1.7.jar",
+      "name": "lets-do-bakery-farmcharm-compat",
+      "version": "6PUQwtEA",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/b7NV2plI/versions/4TjPSAN6/letsdo-brewery-neoforge-2.1.11.jar",
+      "name": "lets-do-brewery-farmcharm-compat",
+      "version": "4TjPSAN6",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/j1Vdf01b/emi-letsdo-compat-2.0.3.jar",
+      "name": "lets-do-emi-compat",
+      "version": "j1Vdf01b",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/Y8Uh3mlO/letsdo-farm_and_charm-neoforge-1.1.26.jar",
+      "name": "lets-do-farm-charm",
+      "version": "Y8Uh3mlO",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/3JQDJrYW/versions/mRIxTsZs/letsdo-furniture-neoforge-1.1.6.jar",
+      "name": "lets-do-furniture",
+      "version": "mRIxTsZs",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/lbCQKzNt/letsdo-vinery-neoforge-1.5.4.jar",
+      "name": "lets-do-vinery",
+      "version": "lbCQKzNt",
       "type": "mod"
     },
     {

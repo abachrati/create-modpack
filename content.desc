@@ -16,7 +16,6 @@ mod/badoptimizations
 mod/balm
 mod/bbrb
 mod/bellsandwhistles
-mod/bellsandwhistles
 mod/better-advancements
 mod/bookshelf-lib
 mod/c2me-neoforge
@@ -33,6 +32,7 @@ mod/connector
 mod/connector-extras
 mod/continuity
 mod/controlling
+mod/convenient-decor
 mod/copycats
 mod/copycats%2B-aeronautics-weight
 mod/coroutil
@@ -56,6 +56,7 @@ mod/create-emf-compat-skyhook
 mod/create-estrogen
 mod/create-factory
 mod/create-framed
+mod/create-jetpack
 mod/create-pattern-schematics
 mod/create-prismatic-shine
 mod/create-propulsion-simulated
@@ -68,6 +69,7 @@ mod/cubes-without-borders
 mod/curios
 mod/cut-through
 mod/cynosure
+mod/decocraft
 mod/delight-lib
 mod/ding
 mod/distracting-trims
@@ -121,6 +123,12 @@ mod/kiwi
 mod/konkrete
 mod/kotlin-for-forge
 mod/lambdynamiclights
+mod/lets-do-bakery-farmcharm-compat
+mod/lets-do-brewery-farmcharm-compat
+mod/lets-do-emi-compat
+mod/lets-do-farm-charm
+mod/lets-do-furniture
+mod/lets-do-vinery
 mod/lithium
 mod/lithostitched
 mod/lodestonelib
