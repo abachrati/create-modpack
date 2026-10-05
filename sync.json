@@ -8,6 +8,18 @@
       "type": "resourcepack"
     },
     {
+      "url": "https://cdn.modrinth.com/data/ZGxtWu73/versions/UbgVQ0qd/aero_cam_sync-1.4.0.jar",
+      "name": "aero_cam_sync",
+      "version": "UbgVQ0qd",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/uKFK3MBp/versions/27nROiTP/AeroPropBlur-1.21.1-1.0a.jar",
+      "name": "aeronautics-propeller-blur",
+      "version": "27nROiTP",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/b8kG1VGq/versions/XDz1C9KI/aileron-1.21.1-neoforge-1.1.4.jar",
       "name": "aileron",
       "version": "XDz1C9KI",
@@ -104,6 +116,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
+      "name": "bellsandwhistles",
+      "version": "w0mifib8",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
       "name": "better-advancements",
       "version": "FjTYILOi",
@@ -152,6 +170,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/8rq5KP4U/colorwheel-neoforge-1.3.0%2Bmc1.21.1.jar",
+      "name": "colorwheel",
+      "version": "8rq5KP4U",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/3kpPjcTc/comforts-neoforge-9.0.5%2B1.21.1.jar",
+      "name": "comforts",
+      "version": "3kpPjcTc",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/PfXPQBGy/Companion-1.21.1-NeoForge-6.3.0.jar",
       "name": "companion",
       "version": "PfXPQBGy",
@@ -188,6 +218,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+      "name": "copycats",
+      "version": "bPYeUWZx",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/wjpmYU1u/versions/wsXjRa7l/aerocopycats-1.1.1.jar",
+      "name": "copycats%2B-aeronautics-weight",
+      "version": "wsXjRa7l",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
       "name": "coroutil",
       "version": "H2YXCYUY",
@@ -200,15 +242,39 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+      "name": "createaddition",
+      "version": "hsjVajlP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5njdnAZ8/versions/x7OaOLDX/sable_createaddition_compat-0.1.13.jar",
+      "name": "create-additions-sable-compat",
+      "version": "x7OaOLDX",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
       "name": "create-aeronautics",
       "version": "44pLdPGg",
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/fk5DMIYY/climbable_ropes-2.1.4.jar",
+      "name": "create-aeronautics-climbable-rope",
+      "version": "fk5DMIYY",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/KUInlTFo/versions/VtGEohEU/alloyed-3.0.12%2B1.21.1-neoforge.jar",
       "name": "create-alloyed",
       "version": "VtGEohEU",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar",
+      "name": "createbetterfps",
+      "version": "dxmPYimo",
       "type": "mod"
     },
     {
@@ -230,9 +296,39 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/5ofroZ5W/versions/KnL9gDAD/create_compatible_storage-2.13.0-mc1.21.1-neoforge.jar",
+      "name": "create-compatible-storage",
+      "version": "KnL9gDAD",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/BBhCMftF/versions/JEmLrfe6/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
       "name": "create-curios-jetpack",
       "version": "JEmLrfe6",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
+      "name": "create-deco",
+      "version": "qrcMVoBD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
+      "name": "create-design-n-decor",
+      "version": "uQsIRky8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar",
+      "name": "create-diesel-generators",
+      "version": "UoPH8lO1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/bqMxf6Ua/DnDesires-1.21.1-2.3a-BETA.jar",
+      "name": "create-dreams-and-desires",
+      "version": "bqMxf6Ua",
       "type": "mod"
     },
     {
@@ -266,6 +362,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar",
+      "name": "create-propulsion-simulated",
+      "version": "H13U56dc",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/gv5RRavC/versions/NcJIZKwh/create-shufflefilter-2.2.0-neo.jar",
       "name": "create-shuffle-filter",
       "version": "NcJIZKwh",
@@ -281,6 +383,12 @@
       "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
       "name": "create-steam-n-rails-1.21.1",
       "version": "czVeSmZo",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "name": "create-threaded-trains",
+      "version": "ry1hvo4l",
       "type": "mod"
     },
     {
@@ -362,6 +470,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/PIxeWxJ0/versions/1EyHB6pM/emf_compat_watut_1.21.1_1.0.0.jar",
+      "name": "emf-compat-watut",
+      "version": "1EyHB6pM",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
       "name": "emi",
       "version": "5sIPA1To",
@@ -392,9 +506,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/YRkPwUTR/entity_model_features-3.3.10-1.21-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/bRlX1x4e/entity_model_features-3.3.11-1.21-neoforge.jar",
       "name": "entity-model-features",
-      "version": "YRkPwUTR",
+      "version": "bRlX1x4e",
       "type": "mod"
     },
     {
@@ -416,6 +530,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/iBvaR6AK/exposure-neoforge-1.21.1-1.9.19.jar",
+      "name": "exposure",
+      "version": "iBvaR6AK",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/61XQmq6p/versions/jXl8swWT/exposure_expanded-neoforge-1.0.1.jar",
+      "name": "exposure-expanded",
+      "version": "jXl8swWT",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar",
       "name": "extended-wrenches",
       "version": "g0PyoRas",
@@ -428,9 +554,27 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/9X0318ev/versions/pqj92Yco/FastFurnace-1.21.1-9.0.1.jar",
+      "name": "fastfurnace",
+      "version": "pqj92Yco",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/rmMrheaC/fastpaintings-1.21-1.3.1-neoforge.jar",
       "name": "fast-paintings",
       "version": "rmMrheaC",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/roccmqou/versions/OQZRQcDM/FastSuite-1.21.1-6.0.7.jar",
+      "name": "fastsuite",
+      "version": "OQZRQcDM",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5NYPwQRn/versions/IwciHwPN/FastWorkbench-1.21.1-9.1.3.jar",
+      "name": "fastworkbench",
+      "version": "IwciHwPN",
       "type": "mod"
     },
     {
@@ -464,6 +608,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/gEWECBVL/versions/qr9hMBnj/GnKinetics-1.21.1-1.0m.jar",
+      "name": "gears-n-kinetics",
+      "version": "qr9hMBnj",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/zg2tT2Vu/versions/IDRMIIb4/gml-6.0.2.jar",
       "name": "gml",
       "version": "IDRMIIb4",
@@ -473,6 +623,12 @@
       "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/jJBnRYkf/GPUBooster-1.3.2-1.21.1-neo.jar",
       "name": "gputape",
       "version": "jJBnRYkf",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "name": "handcrafted",
+      "version": "JfqnpP2Z",
       "type": "mod"
     },
     {
@@ -512,9 +668,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Tn0dgwL0/jei-1.21.1-neoforge-19.57.0.450.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RI8WCow6/jei-1.21.1-neoforge-19.57.0.451.jar",
       "name": "jei",
-      "version": "Tn0dgwL0",
+      "version": "RI8WCow6",
       "type": "mod"
     },
     {
@@ -590,15 +746,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/t6iFh4M3/moonlight-1.21.1-3.7.0-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/YfHkk7hg/moonlight-1.21.1-3.7.1-neoforge.jar",
       "name": "moonlight",
-      "version": "t6iFh4M3",
+      "version": "YfHkk7hg",
       "type": "mod"
     },
     {
       "url": "https://cdn.modrinth.com/data/51shyZVL/versions/5M4T2FfG/moreculling-neoforge-1.21.1-1.0.10.jar",
       "name": "moreculling",
       "version": "5M4T2FfG",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/znHQQtuU/versions/DpW4EgJo/moredelight-26.05.20a-1.21-neoforge.jar",
+      "name": "more-delight",
+      "version": "DpW4EgJo",
       "type": "mod"
     },
     {
@@ -671,6 +833,12 @@
       "url": "https://cdn.modrinth.com/data/JIEwmDVI/versions/f3SxKzof/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
       "name": "pf-neoforge",
       "version": "f3SxKzof",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar",
+      "name": "polymorph",
+      "version": "9yWvrF5o",
       "type": "mod"
     },
     {
@@ -872,6 +1040,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/MJ0hdevs/versions/zG35SCtY/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "name": "sophisticated-storage-create-integration",
+      "version": "zG35SCtY",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
       "name": "sound",
       "version": "kti7i9SG",
@@ -920,6 +1094,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/n4iyW7aB/tectonic-3.0.28-neoforge-21.1.jar",
+      "name": "tectonic",
+      "version": "n4iyW7aB",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar",
       "name": "terralith",
       "version": "IY93YaEe",
@@ -935,6 +1115,12 @@
       "url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar",
       "name": "tooltipfix",
       "version": "B2L4LeMV",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4QrnfueM/versions/zjFylsMq/trashcans-1.1.1-neoforge-mc1.21.jar",
+      "name": "trash-cans",
+      "version": "zjFylsMq",
       "type": "mod"
     },
     {
@@ -956,6 +1142,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/rUSWdBok/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "name": "vanillabackport",
+      "version": "rUSWdBok",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/H3w2nVdU/voxy-0.2.16-beta%2B1.21.11.jar",
       "name": "voxy",
       "version": "H3w2nVdU",
@@ -974,15 +1166,21 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
+      "name": "what-are-they-up-to",
+      "version": "uWr2aTW9",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/7mLhyqIY/versions/k8wIAiWT/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
       "name": "xaeros-minimap-world-map-waystones-compatibility-forge",
       "version": "k8wIAiWT",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9Ckiihkz/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
       "name": "xaeros-world-map",
-      "version": "9Ckiihkz",
+      "version": "SnQ4SoDe",
       "type": "mod"
     },
     {
@@ -1022,6 +1220,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/Go3nbneL/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "name": "yungs-better-mineshafts",
+      "version": "Go3nbneL",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/iopJiJQp/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "name": "yungs-better-nether-fortresses",
       "version": "iopJiJQp",
@@ -1037,6 +1241,18 @@
       "url": "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "name": "yungs-better-strongholds",
       "version": "8U0dIfSM",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/t5FRdP87/versions/AvedwcIe/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "name": "yungs-better-witch-huts",
+      "version": "AvedwcIe",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "name": "yungs-bridges",
+      "version": "urkCzBf6",
       "type": "mod"
     },
     {
@@ -1062,6 +1278,30 @@
       "name": "zume",
       "version": "Rh2ImJ86",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/avHOJfxd/versions/q5JhahnV/Create%20LootR%20Chest.zip",
+      "name": "create-lootr",
+      "version": "q5JhahnV",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/srJbhHkf/versions/3WMwR0Mh/CreateSophBackpacks.zip",
+      "name": "create-sophisticated-backpacks",
+      "version": "3WMwR0Mh",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9MkP9t9t/versions/gmkQsXXv/CreateSophStorage.zip",
+      "name": "create-sophisticated-storages",
+      "version": "gmkQsXXv",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/wkyyLIlu/versions/8PRNlNTj/create-trash-cans-1.2.zip",
+      "name": "create-trash-cans",
+      "version": "8PRNlNTj",
+      "type": "resourcepack"
     },
     {
       "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
@@ -1106,15 +1346,9 @@
       "type": "shader"
     },
     {
-      "url": "https://cdn.modrinth.com/data/UaS8ROxa/versions/LWmZ94RG/miniature-shader-2.19.zip",
-      "name": "miniature-shader",
-      "version": "LWmZ94RG",
-      "type": "shader"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/BkTdFBUU/versions/w3Pxx3b4/Pastel-Shaders-Universal-v1.200.zip",
-      "name": "pastel-shaders",
-      "version": "w3Pxx3b4",
+      "url": "https://cdn.modrinth.com/data/BS9T99lD/versions/tAx0UOBX/Shrimple_v0.12.zip",
+      "name": "shrimple",
+      "version": "tAx0UOBX",
       "type": "shader"
     }
   ]
