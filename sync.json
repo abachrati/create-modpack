@@ -1447,12 +1447,6 @@
       "name": "complementary-unbound",
       "version": "B1kyfoUZ",
       "type": "shader"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/BS9T99lD/versions/tAx0UOBX/Shrimple_v0.12.zip",
-      "name": "shrimple",
-      "version": "tAx0UOBX",
-      "type": "shader"
     }
   ]
 }
