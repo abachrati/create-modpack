@@ -915,6 +915,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/eNF4Bfla/versions/zocCsL7s/now-playing-neoforge-1.5.16%2B1.21.jar",
+      "name": "now-playing",
+      "version": "zocCsL7s",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/3fv8O3xX/Nullscape_1.21.x_v1.2.14.jar",
       "name": "nullscape",
       "version": "3fv8O3xX",
@@ -1272,6 +1278,12 @@
       "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
       "name": "what-are-they-up-to",
       "version": "uWr2aTW9",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/irjR7dHk/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "name": "xaeros-minimap",
+      "version": "irjR7dHk",
       "type": "mod"
     },
     {
