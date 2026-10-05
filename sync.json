@@ -332,6 +332,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/J9McOdzy/versions/FYa3pSLC/emf_compat_create_1.21.1_2.0.0.jar",
+      "name": "create-emf-compat-skyhook",
+      "version": "FYa3pSLC",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/OEAJaSuI/versions/jnnDc0Jg/createestrogen-2.0.0%2B1.21.1.jar",
       "name": "create-estrogen",
       "version": "jnnDc0Jg",
@@ -422,6 +428,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/rmDY6fYt/versions/wCR4QGbG/delightlib-26.05.18-1.21-neoforge.jar",
+      "name": "delight-lib",
+      "version": "wCR4QGbG",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/UEtTD3gP/versions/xDYKoTCG/Ding-1.21-NeoForge-1.5.0.jar",
       "name": "ding",
       "version": "xDYKoTCG",
@@ -467,6 +479,36 @@
       "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/ihEiqSv4/ecologics-1.21.1-2.3.7.jar",
       "name": "ecologics",
       "version": "ihEiqSv4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BPD5ZhBo/versions/WgWz7zA4/emf_compat_carry_on_1.21.1_2.0.0.jar",
+      "name": "emf-compat-carry-on",
+      "version": "WgWz7zA4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/31At82lp/emf_compat_core_1.21.1_2.0.0.jar",
+      "name": "emf-compat-core",
+      "version": "31At82lp",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/mHqWFw6Z/versions/U71mw0ra/emf_compat_exposure_1.21.1_1.0.0.jar",
+      "name": "emf-compat-exposure",
+      "version": "U71mw0ra",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/UvuFGp0l/versions/iuCwulgK/emf_compat_quark_1.21.1_1.1.0.jar",
+      "name": "emf-compat-quark",
+      "version": "iuCwulgK",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/z4FSlBqI/versions/OugZtbdb/emf_compat_supplementaries_1.21.1_1.1.0.jar",
+      "name": "emf-compat-supplementaries",
+      "version": "OugZtbdb",
       "type": "mod"
     },
     {
@@ -836,6 +878,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar",
+      "name": "placebo",
+      "version": "1Ypo4tf4",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/v7P0nBi2/Platform-neoforge-1.21.1-1.3.3.jar",
+      "name": "platform",
+      "version": "v7P0nBi2",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar",
       "name": "polymorph",
       "version": "9yWvrF5o",
@@ -923,12 +977,6 @@
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
       "name": "resourceful-lib",
       "version": "x99nCLTm",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/5KyUPNjh/Resourcify%20%281.21.1-neoforge%29-1.8.7.jar",
-      "name": "resourcify",
-      "version": "5KyUPNjh",
       "type": "mod"
     },
     {
@@ -1350,54 +1398,6 @@
       "name": "shrimple",
       "version": "tAx0UOBX",
       "type": "shader"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/rmDY6fYt/versions/wCR4QGbG/delightlib-26.05.18-1.21-neoforge.jar",
-      "name": "delight-lib",
-      "version": "wCR4QGbG",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar",
-      "name": "placebo",
-      "version": "1Ypo4tf4",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/31At82lp/emf_compat_core_1.21.1_2.0.0.jar",
-      "name": "emf-compat-core",
-      "version": "31At82lp",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/J9McOdzy/versions/FYa3pSLC/emf_compat_create_1.21.1_2.0.0.jar",
-      "name": "create-emf-compat-skyhook",
-      "version": "FYa3pSLC",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/BPD5ZhBo/versions/WgWz7zA4/emf_compat_carry_on_1.21.1_2.0.0.jar",
-      "name": "emf-compat-carry-on",
-      "version": "WgWz7zA4",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/z4FSlBqI/versions/OugZtbdb/emf_compat_supplementaries_1.21.1_1.1.0.jar",
-      "name": "emf-compat-supplementaries",
-      "version": "OugZtbdb",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/mHqWFw6Z/versions/U71mw0ra/emf_compat_exposure_1.21.1_1.0.0.jar",
-      "name": "emf-compat-exposure",
-      "version": "U71mw0ra",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/UvuFGp0l/versions/iuCwulgK/emf_compat_quark_1.21.1_1.1.0.jar",
-      "name": "emf-compat-quark",
-      "version": "iuCwulgK",
-      "type": "mod"
     }
   ]
 }

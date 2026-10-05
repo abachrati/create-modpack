@@ -144,6 +144,7 @@ mod/nullscape
 mod/particle-effects
 mod/pf-neoforge
 mod/placebo
+mod/platform
 mod/polymorph
 mod/polytone
 mod/potion-stacks
@@ -159,7 +160,6 @@ mod/reconnectible-chains
 mod/reeses-sodium-options
 mod/resourceful-config
 mod/resourceful-lib
-mod/resourcify
 mod/roxy
 mod/rpl
 mod/sable
