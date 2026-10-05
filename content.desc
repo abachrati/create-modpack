@@ -52,6 +52,7 @@ mod/create-deco
 mod/create-design-n-decor
 mod/create-diesel-generators
 mod/create-dreams-and-desires
+mod/create-emf-compat-skyhook
 mod/create-estrogen
 mod/create-factory
 mod/create-framed
@@ -67,6 +68,7 @@ mod/cubes-without-borders
 mod/curios
 mod/cut-through
 mod/cynosure
+mod/delight-lib
 mod/ding
 mod/distracting-trims
 mod/draggable-lists
@@ -75,6 +77,11 @@ mod/e4mc
 mod/easy-anvils
 mod/eating-animations
 mod/ecologics
+mod/emf-compat-carry-on
+mod/emf-compat-core
+mod/emf-compat-exposure
+mod/emf-compat-quark
+mod/emf-compat-supplementaries
 mod/emf-compat-watut
 mod/emi
 mod/emi-loot
@@ -136,6 +143,7 @@ mod/notenoughrecipebook
 mod/nullscape
 mod/particle-effects
 mod/pf-neoforge
+mod/placebo
 mod/polymorph
 mod/polytone
 mod/potion-stacks
