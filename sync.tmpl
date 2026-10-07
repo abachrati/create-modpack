@@ -1,5 +1,5 @@
 {
-  sync_version: 3,
+  "sync_version": 3,
   "sync": [
     {
       "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/fresh-compats.zip",
@@ -13,6 +13,13 @@
       "version": "1",
       "type": "packed",
       "directory": "config"
+    }
+  ],
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/xaeros-minimap-world-map-waystones-compatibility-forge-.*\\.jar$",
+      "path": "."
     }
   ]
 }

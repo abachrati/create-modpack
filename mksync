@@ -100,7 +100,6 @@ pinned() {
 }
 
 {
-  cat content.json
   # fetch latest from content from modrinth API
   while read -r line; do
     [ -z "$line" ] && continue;

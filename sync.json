@@ -195,15 +195,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar",
-      "name": "connector",
-      "version": "IITF0PRC",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/FYpiwiBR/versions/dgLCqZyo/ConnectorExtras-1.12.1%2B1.21.1.jar",
       "name": "connector-extras",
       "version": "dgLCqZyo",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar",
+      "name": "connector",
+      "version": "IITF0PRC",
       "type": "mod"
     },
     {
@@ -225,27 +225,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
-      "name": "copycats",
-      "version": "bPYeUWZx",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/wjpmYU1u/versions/wsXjRa7l/aerocopycats-1.1.1.jar",
       "name": "copycats%2B-aeronautics-weight",
       "version": "wsXjRa7l",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
-      "name": "coroutil",
-      "version": "H2YXCYUY",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+      "name": "copycats",
+      "version": "bPYeUWZx",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
-      "name": "create",
-      "version": "UjX6dr61",
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "name": "coroutil",
+      "version": "H2YXCYUY",
       "type": "mod"
     },
     {
@@ -408,6 +402,12 @@
       "url": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "name": "create-threaded-trains",
       "version": "ry1hvo4l",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "name": "create",
+      "version": "UjX6dr61",
       "type": "mod"
     },
     {
@@ -591,15 +591,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/iBvaR6AK/exposure-neoforge-1.21.1-1.9.19.jar",
-      "name": "exposure",
-      "version": "iBvaR6AK",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/61XQmq6p/versions/jXl8swWT/exposure_expanded-neoforge-1.0.1.jar",
       "name": "exposure-expanded",
       "version": "jXl8swWT",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/iBvaR6AK/exposure-neoforge-1.21.1-1.9.19.jar",
+      "name": "exposure",
+      "version": "iBvaR6AK",
       "type": "mod"
     },
     {
@@ -822,6 +822,72 @@
       "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/SPOrIzX8/lootr-neoforge-1.21.1-1.11.38.127.jar",
       "name": "lootr",
       "version": "SPOrIzX8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/aQ7rY7ng/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "name": "macaws-bridges",
+      "version": "aQ7rY7ng",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "name": "macaws-doors",
+      "version": "u7BRX44F",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "name": "macaws-fences-and-walls",
+      "version": "jVdb0r4W",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/Z5V3Ps7S/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "name": "macaws-furniture",
+      "version": "Z5V3Ps7S",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/2mO9Xhpt/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+      "name": "macaws-holidays",
+      "version": "2mO9Xhpt",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/w4an97C2/versions/5U2kQZIL/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "name": "macaws-lights-and-lamps",
+      "version": "5U2kQZIL",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/okE6QVAY/versions/W9QHKmDh/mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "name": "macaws-paintings",
+      "version": "W9QHKmDh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/tlymsxUG/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "name": "macaws-paths-and-pavings",
+      "version": "tlymsxUG",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "name": "macaws-stairs",
+      "version": "4t8L0dGP",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/n2fvCDlM/versions/StnP0RNi/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "name": "macaws-trapdoors",
+      "version": "StnP0RNi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "name": "macaws-windows",
+      "version": "rQUE4LCz",
       "type": "mod"
     },
     {
@@ -1053,15 +1119,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
-      "name": "sable",
-      "version": "fg9dTRz9",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar",
       "name": "sablecompat",
       "version": "Ucq7afTi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
+      "name": "sable",
+      "version": "fg9dTRz9",
       "type": "mod"
     },
     {
@@ -1113,21 +1179,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
-      "name": "sodium",
-      "version": "uMOpc5uV",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
       "name": "sodium-extra",
       "version": "ufpcXU9c",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Igmp9PwW/sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
-      "name": "sophisticated-backpacks",
-      "version": "Igmp9PwW",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "name": "sodium",
+      "version": "uMOpc5uV",
       "type": "mod"
     },
     {
@@ -1137,21 +1197,27 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Igmp9PwW/sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+      "name": "sophisticated-backpacks",
+      "version": "Igmp9PwW",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/nSoNwJfm/sophisticatedcore-1.21.1-1.5.5.2363.jar",
       "name": "sophisticated-core",
       "version": "nSoNwJfm",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/Hhf1IKFI/sophisticatedstorage-1.21.1-1.6.1.2147.jar",
-      "name": "sophisticated-storage",
-      "version": "Hhf1IKFI",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/MJ0hdevs/versions/zG35SCtY/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
       "name": "sophisticated-storage-create-integration",
       "version": "zG35SCtY",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/Hhf1IKFI/sophisticatedstorage-1.21.1-1.6.1.2147.jar",
+      "name": "sophisticated-storage",
+      "version": "Hhf1IKFI",
       "type": "mod"
     },
     {
@@ -1287,12 +1353,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/7mLhyqIY/versions/k8wIAiWT/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
-      "name": "xaeros-minimap-world-map-waystones-compatibility-forge",
-      "version": "k8wIAiWT",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
       "name": "xaeros-world-map",
       "version": "SnQ4SoDe",
@@ -1425,15 +1485,15 @@
       "type": "resourcepack"
     },
     {
-      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
-      "name": "fresh-animations",
-      "version": "xN57JJts",
-      "type": "resourcepack"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/lctgpCsu/versions/tGydmcT3/FA%2BDetails-v2.2.1.zip",
       "name": "fresh-animations-details",
       "version": "tGydmcT3",
+      "type": "resourcepack"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
+      "name": "fresh-animations",
+      "version": "xN57JJts",
       "type": "resourcepack"
     },
     {
@@ -1459,6 +1519,13 @@
       "name": "complementary-unbound",
       "version": "B1kyfoUZ",
       "type": "shader"
+    }
+  ],
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^mods/xaeros-minimap-world-map-waystones-compatibility-forge-.*\\.jar$",
+      "path": "."
     }
   ]
 }
