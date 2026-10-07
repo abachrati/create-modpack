@@ -19,29 +19,29 @@ version() {
 
 mod() {
   # look for neoforge 1.21.1
-  printf '%-48s %b' "$1" "neoforge 1.21.1 ?" 1>&2
+  printf '%-48s %s' "$1" "neoforge 1.21.1 ?" 1>&2
   resp="$(version ${1##*/} 1.21.1 neoforge | jq -r '.[0]')"
 
   # some list compatibility with 1.21, but not 1.21.1
   if [ "$resp" == "null" ]; then
-    printf '\r%-48s %b' "$1" "neoforge 1.21   ?" 1>&2
+    printf '\r%-48s %s' "$1" "neoforge 1.21   ?" 1>&2
     resp="$(version ${1##*/} 1.21 neoforge | jq -r '.[0]')"
   fi
 
   # this mod might be a fabric mod then ...
   if [ "$resp" == "null" ]; then
-    printf '\r%-48s %b' "$1" "fabric   1.21.1 ?" 1>&2
+    printf '\r%-48s %s' "$1" "fabric   1.21.1 ?" 1>&2
     resp="$(version ${1##*/} 1.21.1 fabric | jq -r '.[0]')"
   fi
 
   if [ "$resp" == "null" ]; then
-    printf '%b\n' " not found!" 1>&2
+    printf '%s\n' " not found!" 1>&2
     exit 1
   else
-    printf '%b\n' " found!" 1>&2
+    printf '%s\n' " found!" 1>&2
   fi
 
-  printf '%b' "$resp" \
+  printf '%s' "$resp" \
     | jq -r "{
     url: .files[0].url,
     name: \"${1##*/}\",
@@ -51,23 +51,23 @@ mod() {
 }
 
 other() {
-  printf '%-48s %b' "$1" "1.21.1 ?" 1>&2
+  printf '%-48s %s' "$1" "1.21.1 ?" 1>&2
   resp="$(version ${1##*/} 1.21.1 | jq -r '.[0]')"
 
   # some list compatibility with 1.21, but not 1.21.1
   if [ "$resp" == "null" ]; then
-    printf '\r%-48s %b' "$1" "1.21   ?" 1>&2
+    printf '\r%-48s %s' "$1" "1.21   ?" 1>&2
     resp="$(version ${1##*/} 1.21 | jq -r '.[0]')"
   fi
 
   if [ "$resp" == "null" ]; then
-    printf '%b\n' " not found!" 1>&2
+    printf '%s\n' " not found!" 1>&2
     exit 1
   else
-    printf '%b\n' " found!" 1>&2
+    printf '%s\n' " found!" 1>&2
   fi
 
-  printf '%b' "$resp" \
+  printf '%s' "$resp" \
     | jq -r "{
     url: .files[0].url,
     name: \"${1##*/}\",
@@ -80,17 +80,17 @@ pinned() {
   version="${1##* }"
   path="${1%% *}"
 
-  printf '%-48s %b' "$path" "${version} ?" 1>&2
+  printf '%-48s %s' "$path" "${version} ?" 1>&2
   resp="$(wget -q -O - "https://api.modrinth.com/v2/version/${version}")"
 
   if [ "$resp" == "null" ]; then
-    printf '%b\n' " not found!" 1>&2
+    printf '%s\n' " not found!" 1>&2
     exit 1
   else
-    printf '%b\n' " found!" 1>&2
+    printf '%s\n' " found!" 1>&2
   fi
 
-  printf '%b' "$resp" \
+  printf '%s' "$resp" \
     | jq -r "{
     url: .files[0].url,
     name: \"${path##*/}\",
@@ -113,8 +113,4 @@ pinned() {
     esac
   done < content.desc
 } \
-  | jq -s -r '{
-    sync_version: 3,
-    sync: .
-  }' > sync.json
-
+  | jq -s --slurpfile t sync.tmpl '. as $i | $t[0] | .sync += $i' > sync.json
