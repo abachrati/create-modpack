@@ -15,6 +15,18 @@
       "directory": "config"
     },
     {
+      "url": "https://cdn.modrinth.com/data/5bb5rG4b/versions/CkMaXmRe/blahaj-fabric-1.21.1-2.0.0.jar",
+      "name": "blaha-replushed",
+      "version": "CkMaXmRe",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/tdBEIHqm/versions/YyP7lX9i/loadinvincible-1.1.0.jar",
+      "name": "loading-invincibility",
+      "version": "YyP7lX9i",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/bxgGyUjY/extra-mod-integrations-all-neoforge-1.0.3%2B1.21.1.jar",
       "name": "extra-mod-integrations",
       "version": "bxgGyUjY",
