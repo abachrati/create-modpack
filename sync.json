@@ -1585,6 +1585,11 @@
       "type": "remove",
       "pattern": "^mods/asyncparticles-.*\\.jar$",
       "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^mods/inventory-blur-.*\\.jar$",
+      "path": "."
     }
   ]
 }
