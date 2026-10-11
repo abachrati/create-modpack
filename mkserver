@@ -25,3 +25,6 @@ rm mods/toadlib-Ljldqqcx.jar
 wget  -O mods/cosmetic-armor-reworked-1.jar \
   https://github.com/zlainsama/CosmeticArmorReworked/releases/download/1.21.1-v1-neoforge/cosmeticarmorreworked-1.21.1-v1-neoforge.jar
 
+# server-side only mods
+wget -O mods/justenoughbackups-jeb-2Kdl4TIp.jar \
+  https://cdn.modrinth.com/data/ctV8T1ZK/versions/2Kdl4TIp/justenoughbackups-1.0.1.1%2B1.21.1.jar
