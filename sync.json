@@ -21,6 +21,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar",
+      "name": "jade-sable-compat",
+      "version": "cxUohR7A",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
       "name": "jade-addons-forge",
       "version": "O3F6Dkle",
