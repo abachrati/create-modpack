@@ -10,7 +10,7 @@
     {
       "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/config.zip",
       "name": "config",
-      "version": "4",
+      "version": "5",
       "type": "packed",
       "directory": "config"
     },
@@ -18,6 +18,18 @@
       "url": "https://github.com/zlainsama/CosmeticArmorReworked/releases/download/1.21.1-v1-neoforge/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
       "name": "cosmetic-armor-reworked",
       "version": "1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+      "name": "jade-addons-forge",
+      "version": "O3F6Dkle",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "name": "jade",
+      "version": "eYz2YBGT",
       "type": "mod"
     },
     {
@@ -1561,22 +1573,22 @@
     {
       "type": "remove",
       "pattern": "^mods/xaeros-minimap-world-map-waystones-compatibility-forge-.*\\.jar$",
-      "path": "."
+      "path": "mods"
     },
     {
       "type": "remove",
       "pattern": "^mods/asyncparticles-.*\\.jar$",
-      "path": "."
+      "path": "mods"
     },
     {
       "type": "remove",
       "pattern": "^mods/inventory-blur-.*\\.jar$",
-      "path": "."
+      "path": "mods"
     },
     {
       "type": "remove",
       "pattern": "^mods/aeronautics-propeller-blur-.*\\.jar$",
-      "path": "."
+      "path": "mods"
     }
   ]
 }
