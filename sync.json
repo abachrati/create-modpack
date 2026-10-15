@@ -21,6 +21,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/DZ81JNQ1/versions/XjOAF7RF/audio_engine_tweaks-1.2.6-MC1.21.1%20build%2022.jar",
+      "name": "audio-engine-tweaks",
+      "version": "XjOAF7RF",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar",
       "name": "jade-sable-compat",
       "version": "cxUohR7A",
