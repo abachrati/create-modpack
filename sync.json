@@ -21,6 +21,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "name": "create-ultimate-factory",
+      "version": "AEMRNsNS",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/DZ81JNQ1/versions/XjOAF7RF/audio_engine_tweaks-1.2.6-MC1.21.1%20build%2022.jar",
       "name": "audio-engine-tweaks",
       "version": "XjOAF7RF",
@@ -1585,7 +1591,7 @@
     {
       "type": "remove",
       "pattern": "^mods/xaeros-minimap-world-map-waystones-compatibility-forge-.*\\.jar$",
-      "path": "mods"
+      "path": "."
     },
     {
       "type": "remove",
