@@ -21,6 +21,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
+      "name": "create-dragons-plus",
+      "version": "b0u9vk8C",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/L6VSDdC4/create-enchantment-industry-2.5.4b.jar",
+      "name": "create-enchantment-industry",
+      "version": "L6VSDdC4",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "name": "create-ultimate-factory",
       "version": "AEMRNsNS",
