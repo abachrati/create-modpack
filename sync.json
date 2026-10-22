@@ -21,6 +21,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/wtejCXCP/versions/VIrCF31o/lightleveloverlay-neoforge-1.3.0%2Bmc1.21.1.jar",
+      "name": "llo",
+      "version": "VIrCF31o",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
       "name": "create-dragons-plus",
       "version": "b0u9vk8C",
@@ -1176,12 +1182,6 @@
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
       "name": "resourceful-lib",
       "version": "x99nCLTm",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/Ap78bKTp/versions/Tbny1Cq6/roxy-1.21.1-NeoForge-0.3.3.jar",
-      "name": "roxy",
-      "version": "Tbny1Cq6",
       "type": "mod"
     },
     {
