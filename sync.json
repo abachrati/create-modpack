@@ -567,12 +567,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/HXD8kS5O/e4mc-neoforge-6.2.3.jar",
-      "name": "e4mc",
-      "version": "HXD8kS5O",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/fSQSKhdF/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
       "name": "easy-anvils",
       "version": "fSQSKhdF",
