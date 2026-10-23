@@ -15,6 +15,24 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/IhkQpEve/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+      "name": "crafting-tweaks",
+      "version": "IhkQpEve",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/hIJ2Ev1Q/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "name": "explorers-compass",
+      "version": "hIJ2Ev1Q",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/nFniEtJV/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "name": "natures-compass",
+      "version": "nFniEtJV",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/CrvsDgLW/PresenceFootsteps-1.11.2%2B1.21.jar",
       "name": "presence-footsteps",
       "version": "CrvsDgLW",
@@ -1203,12 +1221,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/IyHq05yB/versions/Lw02ZJke/seamlesssleep-neoforge-1.21-2.5.3.jar",
-      "name": "seamless-sleep",
-      "version": "Lw02ZJke",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
       "name": "searchables",
       "version": "iEE85X0w",
@@ -1227,12 +1239,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qqNx1Yjm/voicechat-neoforge-1.21.1-2.6.24.jar",
-      "name": "simple-voice-chat",
-      "version": "qqNx1Yjm",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar",
       "name": "slice-and-dice",
       "version": "D6mQaFRW",
@@ -1242,12 +1248,6 @@
       "url": "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/odppGdXf/smarterfarmers-1.21-2.2.4-neoforge.jar",
       "name": "smarter-farmers-farmers-replant",
       "version": "odppGdXf",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
-      "name": "sodium-extra",
-      "version": "ufpcXU9c",
       "type": "mod"
     },
     {
