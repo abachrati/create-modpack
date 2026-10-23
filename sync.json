@@ -1596,32 +1596,32 @@
   "modify": [
     {
       "type": "remove",
-      "pattern": "^mods/xaeros-minimap-world-map-waystones-compatibility-forge-.*\\.jar$",
+      "pattern": "^xaeros-minimap-world-map-waystones-compatibility-forge-.*\\.jar$",
       "path": "."
     },
     {
       "type": "remove",
-      "pattern": "^mods/asyncparticles-.*\\.jar$",
+      "pattern": "^asyncparticles-.*\\.jar$",
       "path": "mods"
     },
     {
       "type": "remove",
-      "pattern": "^mods/inventory-blur-.*\\.jar$",
+      "pattern": "^inventory-blur-.*\\.jar$",
       "path": "mods"
     },
     {
       "type": "remove",
-      "pattern": "^mods/aeronautics-propeller-blur-.*\\.jar$",
+      "pattern": "^aeronautics-propeller-blur-.*\\.jar$",
       "path": "mods"
     },
     {
       "type": "remove",
-      "pattern": "^mods/colorwheel-.*\\.jar$",
+      "pattern": "^colorwheel-.*\\.jar$",
       "path": "mods"
     },
     {
       "type": "remove",
-      "pattern": "^mods/voxy-server-side-.*\\.jar$",
+      "pattern": "^voxy-server-side-.*\\.jar$",
       "path": "mods"
     }
   ]
