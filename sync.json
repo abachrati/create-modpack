@@ -1623,6 +1623,11 @@
       "type": "remove",
       "pattern": "^voxy-server-side-.*\\.jar$",
       "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^e4mc-.*\\.jar$",
+      "path": "mods"
     }
   ]
 }
