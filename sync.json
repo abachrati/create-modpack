@@ -21,6 +21,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/CrvsDgLW/PresenceFootsteps-1.11.2%2B1.21.jar",
+      "name": "presence-footsteps",
+      "version": "CrvsDgLW",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/wtejCXCP/versions/VIrCF31o/lightleveloverlay-neoforge-1.3.0%2Bmc1.21.1.jar",
       "name": "llo",
       "version": "VIrCF31o",
@@ -1077,12 +1083,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/JIEwmDVI/versions/f3SxKzof/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
-      "name": "pf-neoforge",
-      "version": "f3SxKzof",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar",
       "name": "placebo",
       "version": "1Ypo4tf4",
@@ -1627,6 +1627,11 @@
     {
       "type": "remove",
       "pattern": "^e4mc-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^pf-neoforge-.*\\.jar$",
       "path": "mods"
     }
   ]
