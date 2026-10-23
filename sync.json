@@ -1185,6 +1185,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/Ap78bKTp/versions/VnJRhuAn/roxy-1.21.1-NeoForge-0.4.1.jar",
+      "name": "roxy",
+      "version": "VnJRhuAn",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
       "name": "rpl",
       "version": "hZ6B2Z0x",
@@ -1401,12 +1407,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/84zcagOb/versions/ysVSK5wH/voxy-server-side-neoforge.jar",
-      "name": "voxy-server-side",
-      "version": "ysVSK5wH",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/6Z6MQ6os/waystones-neoforge-1.21.1-21.1.46.jar",
       "name": "waystones",
       "version": "6Z6MQ6os",
@@ -1563,9 +1563,9 @@
       "type": "resourcepack"
     },
     {
-      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/aQjwvDfY/FreshAnimations_v1.11.1_1.20%2B.zip",
       "name": "fresh-animations",
-      "version": "xN57JJts",
+      "version": "aQjwvDfY",
       "type": "resourcepack"
     },
     {
@@ -1617,6 +1617,11 @@
     {
       "type": "remove",
       "pattern": "^mods/colorwheel-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^mods/voxy-server-side-.*\\.jar$",
       "path": "mods"
     }
   ]
