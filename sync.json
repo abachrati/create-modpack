@@ -4,7 +4,7 @@
     {
       "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/config.zip",
       "name": "config",
-      "version": "8",
+      "version": "9",
       "type": "packed",
       "directory": "config"
     },
