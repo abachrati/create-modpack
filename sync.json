@@ -15,6 +15,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/8rq5KP4U/colorwheel-neoforge-1.3.0%2Bmc1.21.1.jar",
+      "name": "colorwheel",
+      "version": "8rq5KP4U",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar",
       "name": "create-connected",
       "version": "Xe7EqzfQ",
@@ -519,9 +525,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hqI03twF/versions/BwfxFcwh/sablexaeromaps-1.21.1-1.4.1.jar",
+      "url": "https://cdn.modrinth.com/data/hqI03twF/versions/x8eDZf7t/sablexaeromaps-1.21.1-1.4.2.jar",
       "name": "create-xaeros-map",
-      "version": "BwfxFcwh",
+      "version": "x8eDZf7t",
       "type": "mod"
     },
     {
@@ -1227,6 +1233,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/IyHq05yB/versions/Lw02ZJke/seamlesssleep-neoforge-1.21-2.5.3.jar",
+      "name": "seamless-sleep",
+      "version": "Lw02ZJke",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
       "name": "searchables",
       "version": "iEE85X0w",
@@ -1245,6 +1257,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qqNx1Yjm/voicechat-neoforge-1.21.1-2.6.24.jar",
+      "name": "simple-voice-chat",
+      "version": "qqNx1Yjm",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar",
       "name": "slice-and-dice",
       "version": "D6mQaFRW",
@@ -1254,6 +1272,12 @@
       "url": "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/odppGdXf/smarterfarmers-1.21-2.2.4-neoforge.jar",
       "name": "smarter-farmers-farmers-replant",
       "version": "odppGdXf",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
+      "name": "sodium-extra",
+      "version": "ufpcXU9c",
       "type": "mod"
     },
     {
@@ -1588,11 +1612,6 @@
     {
       "type": "remove",
       "pattern": "^aeronautics-propeller-blur-.*\\.jar$",
-      "path": "mods"
-    },
-    {
-      "type": "remove",
-      "pattern": "^colorwheel-.*\\.jar$",
       "path": "mods"
     },
     {
