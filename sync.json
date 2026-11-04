@@ -4,14 +4,20 @@
     {
       "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/config.zip",
       "name": "config",
-      "version": "10",
+      "version": "11",
       "type": "packed",
-      "directory": "config"
+      "directory": "."
     },
     {
       "url": "https://github.com/zlainsama/CosmeticArmorReworked/releases/download/1.21.1-v1-neoforge/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
       "name": "cosmetic-armor-reworked",
       "version": "1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/WPE5gRs9/versions/ndnETBEN/create-confectionery1.21.1_v1.1.3b.jar",
+      "name": "create-confectionery",
+      "version": "ndnETBEN",
       "type": "mod"
     },
     {
