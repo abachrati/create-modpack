@@ -15,9 +15,9 @@
       "type": "mod"
     },
     {
-      "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/chisels-and-bits-21.1.33.jar",
+      "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/chisels-and-bits-21.1.33.fix.jar",
       "name": "chisels-and-bits",
-      "version": "21.1.33",
+      "version": "21.1.33.fix",
       "type": "mod"
     },
     {
