@@ -15,6 +15,48 @@
       "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/chisels-and-bits-21.1.33.jar",
+      "name": "chisels-and-bits",
+      "version": "21.1.33",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/q723aMHO/create_radar-5.0.3-1.21.1.jar",
+      "name": "create-radars",
+      "version": "q723aMHO",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Rsk2MfzV/versions/OLen1ZcN/compactflap-neoforge-1.21.1-1.0.4.1.jar",
+      "name": "create-compact-flap",
+      "version": "OLen1ZcN",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/UFCtLrRv/versions/p1qiZ6zk/hotstuff-1.1.7.jar",
+      "name": "hots-aerostuff",
+      "version": "p1qiZ6zk",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/pTfszyXD/versions/ds01YFge/cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "name": "create-big-cannons-advanced-technologies",
+      "version": "ds01YFge",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/xxaCKdq3/versions/D0eUHVAH/cbc_going_ballistic-0.3.2.jar",
+      "name": "create-big-cannons-going-ballistic",
+      "version": "D0eUHVAH",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/g9Lmjjc5/bits_n_bobs-2.3.5.jar",
+      "name": "create-bits-n-bobs",
+      "version": "g9Lmjjc5",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/WPE5gRs9/versions/ndnETBEN/create-confectionery1.21.1_v1.1.3b.jar",
       "name": "create-confectionery",
       "version": "ndnETBEN",
@@ -363,9 +405,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLlVJXf0/copycats-3.0.11%2Bmc.1.21.1-neoforge.jar",
       "name": "copycats",
-      "version": "bPYeUWZx",
+      "version": "zLlVJXf0",
       "type": "mod"
     },
     {
@@ -393,9 +435,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/TTGedLb3/climbable_ropes-2.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/HmIHKOOs/climbable_ropes-2.2.1.jar",
       "name": "create-aeronautics-climbable-rope",
-      "version": "TTGedLb3",
+      "version": "HmIHKOOs",
       "type": "mod"
     },
     {
@@ -465,9 +507,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/J9McOdzy/versions/i61xLd9M/emf_compat_create_neoforge_1.21.1_2.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/J9McOdzy/versions/w9CLlrNR/emf_compat_create_neoforge_1.21.1_2.1.1.jar",
       "name": "create-emf-compat-skyhook",
-      "version": "i61xLd9M",
+      "version": "w9CLlrNR",
       "type": "mod"
     },
     {
@@ -627,39 +669,39 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/BPD5ZhBo/versions/4yBpZGK7/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/BPD5ZhBo/versions/rWi4iYwg/emf_compat_carry_on_neoforge_1.21.1_2.2.0.jar",
       "name": "emf-compat-carry-on",
-      "version": "4yBpZGK7",
+      "version": "rWi4iYwg",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/ai1LOVRO/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/upzqIWB0/emf_compat_core_neoforge_1.21.1_2.4.0.jar",
       "name": "emf-compat-core",
-      "version": "ai1LOVRO",
+      "version": "upzqIWB0",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/mHqWFw6Z/versions/U71mw0ra/emf_compat_exposure_1.21.1_1.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/mHqWFw6Z/versions/nEKhsjXJ/emf_compat_exposure_neoforge_1.21.1_1.0.1.jar",
       "name": "emf-compat-exposure",
-      "version": "U71mw0ra",
+      "version": "nEKhsjXJ",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/UvuFGp0l/versions/iuCwulgK/emf_compat_quark_1.21.1_1.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/UvuFGp0l/versions/ZdahQjlA/emf_compat_quark_neoforge_1.21.1_1.1.1.jar",
       "name": "emf-compat-quark",
-      "version": "iuCwulgK",
+      "version": "ZdahQjlA",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/z4FSlBqI/versions/HczpDeQN/emf_compat_supplementaries_neoforge_1.21.1_1.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/z4FSlBqI/versions/ify2HjAy/emf_compat_supplementaries_neoforge_1.21.1_1.1.2.jar",
       "name": "emf-compat-supplementaries",
-      "version": "HczpDeQN",
+      "version": "ify2HjAy",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/PIxeWxJ0/versions/1EyHB6pM/emf_compat_watut_1.21.1_1.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/PIxeWxJ0/versions/6nj11UwF/emf_compat_watut_neoforge_1.21.1_1.1.0.jar",
       "name": "emf-compat-watut",
-      "version": "1EyHB6pM",
+      "version": "6nj11UwF",
       "type": "mod"
     },
     {
@@ -723,9 +765,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/iBvaR6AK/exposure-neoforge-1.21.1-1.9.19.jar",
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/U13Hoofy/exposure-neoforge-1.21.1-1.9.20.jar",
       "name": "exposure",
-      "version": "iBvaR6AK",
+      "version": "U13Hoofy",
       "type": "mod"
     },
     {
@@ -1029,9 +1071,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/drG7quQp/moonlight-1.21.1-3.8.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/yBea1yLM/moonlight-1.21.1-3.8.3-neoforge.jar",
       "name": "moonlight",
-      "version": "drG7quQp",
+      "version": "yBea1yLM",
       "type": "mod"
     },
     {
@@ -1095,9 +1137,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/VtYxePQ0/nerb-neoforge-0.6%2B1.21.1.jar",
       "name": "notenoughrecipebook",
-      "version": "8SBaRv1t",
+      "version": "VtYxePQ0",
       "type": "mod"
     },
     {
@@ -1137,9 +1179,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/6mPQONys/polytone-1.21-5.3.4-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/Ty5Aowoi/polytone-1.21-5.3.8-neoforge.jar",
       "name": "polytone",
-      "version": "6mPQONys",
+      "version": "Ty5Aowoi",
       "type": "mod"
     },
     {
@@ -1257,9 +1299,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/5W0Tr3KB/OctoLib-NEOFORGE-0.6.3%2B1.21.jar",
       "name": "shatterbyte-lib",
-      "version": "yVCCi6TK",
+      "version": "5W0Tr3KB",
       "type": "mod"
     },
     {
@@ -1305,15 +1347,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/DY0e8WVr/sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/tJnK2DE1/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
       "name": "sophisticated-backpacks",
-      "version": "DY0e8WVr",
+      "version": "tJnK2DE1",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/fp75rxsS/sophisticatedcore-1.21.1-1.5.28.2458.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/ceT6tucA/sophisticatedcore-1.21.1-1.5.32.2464.jar",
       "name": "sophisticated-core",
-      "version": "fp75rxsS",
+      "version": "ceT6tucA",
       "type": "mod"
     },
     {
