@@ -21,6 +21,18 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "name": "distanthorizons",
+      "version": "9w34y8ai",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/iUGLCJTI/versions/2DrfEi0d/Distant%20Horizons%20SeedGen%200.9.1%20for%201.21.1%20NeoForge.jar",
+      "name": "distant-horizons-seedgen",
+      "version": "2DrfEi0d",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/q723aMHO/create_radar-5.0.3-1.21.1.jar",
       "name": "create-radars",
       "version": "q723aMHO",
