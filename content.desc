@@ -6,7 +6,6 @@ mod/create-big-cannons-going-ballistic
 mod/create-bits-n-bobs
 mod/create-confectionery
 mod/project-pillager
-mod/voxy-server-side
 mod/colorwheel
 mod/create-connected
 mod/crafting-tweaks
@@ -131,7 +130,6 @@ mod/fastsuite
 mod/fastworkbench
 mod/ferrite-core
 mod/flerovium
-mod/forgified-fabric-api
 mod/fusion-connected-textures
 mod/fzzy-config
 mod/gears-n-kinetics
@@ -260,8 +258,6 @@ mod/yungs-extras
 mod/zeta
 mod/zfastnoise
 mod/zume
-mod/roxy
-mod/voxy H3w2nVdU
 resourcepack/create-lootr q5JhahnV
 resourcepack/create-sophisticated-backpacks
 resourcepack/create-sophisticated-storages

@@ -69,12 +69,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/84zcagOb/versions/pjhowbMS/voxy-server-side-neoforge.jar",
-      "name": "voxy-server-side",
-      "version": "pjhowbMS",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/lV874ox8/colorwheel-neoforge-1.3.2%2Bmc1.21.1.jar",
       "name": "colorwheel",
       "version": "lV874ox8",
@@ -435,9 +429,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/HmIHKOOs/climbable_ropes-2.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/jImqv1M5/versions/1r3CmpkA/climbable_ropes-2.2.2.jar",
       "name": "create-aeronautics-climbable-rope",
-      "version": "HmIHKOOs",
+      "version": "1r3CmpkA",
       "type": "mod"
     },
     {
@@ -765,9 +759,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/U13Hoofy/exposure-neoforge-1.21.1-1.9.20.jar",
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/tjX0GpFW/exposure-neoforge-1.21.1-1.9.21.jar",
       "name": "exposure",
-      "version": "U13Hoofy",
+      "version": "tjX0GpFW",
       "type": "mod"
     },
     {
@@ -816,12 +810,6 @@
       "url": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/PHD5rYo3/flerovium-neoforge-1.21.1-1.2.0-all.jar",
       "name": "flerovium",
       "version": "PHD5rYo3",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/C4eskNuR/forgified-fabric-api-0.116.15%2B2.3.6%2B1.21.1.jar",
-      "name": "forgified-fabric-api",
-      "version": "C4eskNuR",
       "type": "mod"
     },
     {
@@ -1353,9 +1341,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/ceT6tucA/sophisticatedcore-1.21.1-1.5.32.2464.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/9DxpMDZv/sophisticatedcore-1.21.1-1.5.33.2470.jar",
       "name": "sophisticated-core",
-      "version": "ceT6tucA",
+      "version": "9DxpMDZv",
       "type": "mod"
     },
     {
@@ -1365,9 +1353,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/hC4LaBhJ/sophisticatedstorage-1.21.1-1.6.16.2222.jar",
+      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/ikf1wOWI/sophisticatedstorage-1.21.1-1.6.17.2224.jar",
       "name": "sophisticated-storage",
-      "version": "hC4LaBhJ",
+      "version": "ikf1wOWI",
       "type": "mod"
     },
     {
@@ -1593,18 +1581,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Ap78bKTp/versions/VnJRhuAn/roxy-1.21.1-NeoForge-0.4.1.jar",
-      "name": "roxy",
-      "version": "VnJRhuAn",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/H3w2nVdU/voxy-0.2.16-beta%2B1.21.11.jar",
-      "name": "voxy",
-      "version": "H3w2nVdU",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/avHOJfxd/versions/q5JhahnV/Create%20LootR%20Chest.zip",
       "name": "create-lootr",
       "version": "q5JhahnV",
@@ -1682,6 +1658,26 @@
     {
       "type": "remove",
       "pattern": "^pf-neoforge-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^voxy-server-side-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^voxy-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^roxy-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^forgified-fabric-api-.*\\.jar$",
       "path": "mods"
     }
   ]
