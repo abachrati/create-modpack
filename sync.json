@@ -2,9 +2,9 @@
   "sync_version": 3,
   "sync": [
     {
-      "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/config.zip",
-      "name": "config",
-      "version": "11",
+      "url": "https://raw.githubusercontent.com/abachrati/create-modpack/refs/heads/main/files/blob.zip",
+      "name": "blob",
+      "version": "12",
       "type": "packed",
       "directory": "."
     },
