@@ -21,6 +21,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/C4eskNuR/forgified-fabric-api-0.116.15%2B2.3.6%2B1.21.1.jar",
+      "name": "forgified-fabric-api",
+      "version": "C4eskNuR",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "name": "distanthorizons",
       "version": "9w34y8ai",
@@ -1685,11 +1691,6 @@
     {
       "type": "remove",
       "pattern": "^roxy-.*\\.jar$",
-      "path": "mods"
-    },
-    {
-      "type": "remove",
-      "pattern": "^forgified-fabric-api-.*\\.jar$",
       "path": "mods"
     }
   ]
