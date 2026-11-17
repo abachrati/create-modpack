@@ -81,12 +81,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/FF0lLdjj/versions/q20kJ6nF/pillagerredux-1.0.0.jar",
-      "name": "project-pillager",
-      "version": "q20kJ6nF",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/lV874ox8/colorwheel-neoforge-1.3.2%2Bmc1.21.1.jar",
       "name": "colorwheel",
       "version": "lV874ox8",
@@ -1691,6 +1685,11 @@
     {
       "type": "remove",
       "pattern": "^roxy-.*\\.jar$",
+      "path": "mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^project-pillager-.*\\.jar$",
       "path": "mods"
     }
   ]
