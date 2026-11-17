@@ -11,10 +11,9 @@ jq -c -r '.sync[] | select(.type == "mod")' sync.json \
 
     env="$(wget -q -O - "https://api.modrinth.com/v2/project/$slug" | jq -r '.environment[]')"
 
-    printf '%-40s: ' "$slug"
-
     printf '%s' "$env" \
       | if grep 'server' > /dev/null; then
+        printf '%-40s: ' "$slug"
         (cd mods; wget -q -O "$slug-$version.jar" "$url")
         printf 'downloaded\n'
       fi
